@@ -1,4 +1,3 @@
-
 ```javascript
 const musicIcons = {
     footerIcon: 'https://cdn.discordapp.com/emojis/865916418909536276.gif', 
