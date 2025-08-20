@@ -16,4 +16,5 @@ const musicIcons = {
     CheckmarkIcon: "https://new.icon.url/for/checkmark.gif",
     MusicIcon: "https://cdn.discordapp.com/emojis/763415718271385610.gif",
 };
+
 module.exports = musicIcons;
